@@ -1,5 +1,47 @@
 {"alumni":[
 	{
+		"name":"柳曉龍",
+		"degree":"PhD",
+		"year":"2016",
+		"thesis":""
+	},
+	{
+		"name":"周筱瑜",
+		"degree":"Master",
+		"year":"2016",
+		"thesis":""
+	},
+	{
+		"name":"曾巧柔",
+		"degree":"Master",
+		"year":"2016",
+		"thesis":""
+	},
+	{
+		"name":"林右詮",
+		"degree":"Master",
+		"year":"2016",
+		"thesis":""
+	},
+	{
+		"name":"謝昀儒",
+		"degree":"Master",
+		"year":"2016",
+		"thesis":""
+	},
+	{
+		"name":"黃則維",
+		"degree":"Master",
+		"year":"2016",
+		"thesis":""
+	},
+	{
+		"name":"Himmatur Rijal",
+		"degree":"Master",
+		"year":"2016",
+		"thesis":""
+	},
+	{
 		"name":"Eman Yaser Daraghmi",
 		"degree":"PhD",
 		"year":"2015",

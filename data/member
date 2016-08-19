@@ -1,62 +1,28 @@
 { "phd" :[
 		{
-			"name" : "江川彥",
-			"img": "./img/pic/chaun.png",
-			"fb" : "https://www.facebook.com/cychiang0823?fref=ts",
-			"linkedin" : "https://www.linkedin.com/profile/view?id=AAMAAA-_1LUBt2t-NJd9lA2XKVlj6ZktPScVYE0&trk=hp-identity-name",
-			"mail" : "none"
-		},
-		{
-			"name" : "范植添",
-			"img": "./img/pic/fan.png",
-			"fb" : "https://www.facebook.com/timfan3939?fref=ts",
-			"linkedin" : "none"
-		},
-		{
 			"name" : "張哲彬",
-			"img": "./img/pic/che_pin_chang.jpg",
+			"img": "./img/member/che_pin_chang.jpg",
 			"fb" : "https://www.facebook.com/jalex.chang",
 			"linkedin" : "https://www.linkedin.com/profile/view?id=AAIAABYOXSgB2eGBrd2HbWP8TVyQ1SFY-H8aPSM",
 			"mail" : "none"
 		},
 		{
-			"name" : "柳曉龍",
-			"img": "./img/pic/lang.png",
-			"fb" : "https://www.facebook.com/shall.liu?fref=ts",
-			"linkedin" : "none",
-			"mail" : "none"
-		},
-		{
 			"name" : "范家禎",
-			"img": "./img/pic/chia.png",
+			"img": "./img/member/chia.png",
 			"fb" : "https://www.facebook.com/profile.php?id=100000112942388&fref=ts",
 			"linkedin" : "none",
 			"mail" : "none"
 		},
 		{
-			"name" : "何彥勳",
-			"img": "./img/pic/yanshun.png",
-			"fb" : "https://www.facebook.com/yenhsun.ho?fref=ts",
-			"linkedin" : "none",
-			"mail" : "none"
-		},
-		{
-			"name" : "Mohammed Hilal",
-			"img": "./img/pic/hila.png",
-			"fb" : "https://www.facebook.com/moha.hilal.7?fref=ts",
-			"linkedin" : "none",
-			"mail" : "none"
-		},
-		{
 			"name" : "張雪白",
-			"img": "./img/pic/snow.png",
+			"img": "./img/member/snow.png",
 			"fb" : "https://www.facebook.com/xuebai.zhang",
 			"linkedin" : "none",
 			"mail" : "none"
 		},
 		{
 			"name" : "Thanh An Nguyen",
-			"img": "./img/pic/ann.png",
+			"img": "./img/member/ann.png",
 			"fb" : "https://www.facebook.com/thanhan510?fref=ts",
 			"linkedin" : "none",
 			"mail" : "none"
@@ -64,79 +30,72 @@
 	],
   "master" :[
 		{
-			"name" : "周筱瑜",
-			"img": "./img/pic/fish.png",
-			"fb" : "https://www.facebook.com/littlefishchou?fref=ts",
-			"linkedin" : "none",
-			"mail" : "none"
-		},
-		{
-			"name" : "曾巧柔",
-			"img": "./img/pic/tzeng.png",
-			"fb" : "https://www.facebook.com/cheryl.tzeng?fref=ts",
-			"linkedin" : "none",
-			"mail" : "none"
-		},
-		{
-			"name" : "林右詮",
-			"img": "./img/pic/shun.png",
-			"fb" : "https://www.facebook.com/turningbookjp?fref=ts",
-			"linkedin" : "none",
-			"mail" : "none"
-		},
-		{
-			"name" : "謝昀儒",
-			"img": "./img/pic/yun.png",
-			"fb" : "https://www.facebook.com/profile.php?id=100002225666698&fref=ts",
-			"linkedin" : "none",
-			"mail" : "none"
-		},
-		{
-			"name" : "Himmatur Rijal",
-			"img": "./img/pic/rijal.png",
-			"fb" : "https://www.facebook.com/himmatur?fref=ts",
-			"linkedin" : "none",
-			"mail" : "none"
-		},
-		{
-			"name" : "黃則維",
-			"img": "./img/pic/wei.png",
-			"fb" : "https://www.facebook.com/WingsHuang?fref=ts",
-			"linkedin" : "none",
-			"mail" : "none"
-		},
-		{
 			"name" : "郭真爾",
-			"img": "./img/pic/jenre.png",
+			"img": "./img/member/jenre.png",
 			"fb" : "https://www.facebook.com/jennylove.taemin",
 			"linkedin" : "none",
 			"mail" : "none"
 		},
 		{
 			"name" : "謝子宸",
-			"img": "./img/pic/chizeng.png",
+			"img": "./img/member/chizeng.png",
 			"fb" : "https://www.facebook.com/lovelioula?fref=ts",
 			"linkedin" : "none",
 			"mail" : "none"
 		},
 		{
 			"name" : "李語堂",
-			"img": "./img/pic/yutan.png",
+			"img": "./img/member/yutan.png",
 			"fb" : "https://www.facebook.com/lekeny?fref=ts",
 			"linkedin" : "https://www.linkedin.com/in/KennyLeeSoftwareEngineer",
 			"mail" : "none"
 		},
 		{
 			"name" : "吳孟謙",
-			"img": "./img/pic/smartboy.png",
+			"img": "./img/member/smartboy.png",
 			"fb" : "https://www.facebook.com/profile.php?id=100000470685063",
 			"linkedin" : "none",
 			"mail" : "none"
 		},
 		{
 			"name" : "Syaulina Azmi",
-			"img": "./img/pic/azmi.png",
+			"img": "./img/member/azmi.png",
 			"fb" : "https://www.facebook.com/syaulina.azmi?fref=ts",
+			"linkedin" : "none",
+			"mail" : "none"
+		},
+		{
+			"name" : "陳明道",
+			"img": "none",
+			"fb" : "none",
+			"linkedin" : "none",
+			"mail" : "none"
+		},
+		{
+			"name" : "吳冠霆",
+			"img": "none",
+			"fb" : "none",
+			"linkedin" : "none",
+			"mail" : "none"
+		},
+		{
+			"name" : "何青祐",
+			"img": "none",
+			"fb" : "none",
+			"linkedin" : "none",
+			"mail" : "none"
+		},
+		{
+			"name" : "陳昱文",
+			"img": "none",
+			"fb" : "none",
+			"linkedin" : "none",
+			"mail" : "none"
+		},
+		{
+			"name" : "陳雅菁",
+			"img": "none",
+			"fb" : "none",
 			"linkedin" : "none",
 			"mail" : "none"
 		}
