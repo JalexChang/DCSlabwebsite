@@ -1,0 +1,158 @@
+{"alumni":[
+	{
+		"name":"Eman Yaser Daraghmi",
+		"degree":"PhD",
+		"year":"2015",
+		"thesis":"A Small World Based Approach for Improving Dynamic Load-Balancing In Heterogeneous Systems"
+	},
+	{
+		"name":"楊則彥",
+		"degree":"Master",
+		"year":"2015",
+		"thesis":"Cloud Storage Access Gateway"
+	},
+	{
+		"name":"吳宗祐",
+		"degree":"Master",
+		"year":"2015",
+		"thesis":"Web Content Sharing on Fog Computing"
+	},
+	{
+		"name":"鍾博宇",
+		"degree":"Master",
+		"year":"2015",
+		"thesis":"A Cross-Cloud System Reconfiguration Tool"
+	},
+	{
+		"name":"Husaini",
+		"degree":"Master",
+		"year":"2015",
+		"thesis":"A Threshold-based Cloud Resource Allocation Framework with QoS Considerations"
+	},
+	{
+		"name":"趙翔",
+		"degree":"Master",
+		"year":"2015",
+		"thesis":"An Automatic Bottleneck Detection System with Scaling Recommendation"
+	},
+	{
+		"name":"梁志彬",
+		"degree":"Master",
+		"year":"2015",
+		"thesis":"House Prices Prediction System Based on Open Government Data"
+	},
+	{
+		"name":"胡喬閔",
+		"degree":"Master",
+		"year":"2015",
+		"thesis":"An Integrated Advertising System for Medium and Small Scale Enterprises"
+	},
+	{
+		"name":"黎奕宏",
+		"degree":"Master",
+		"year":"2015",
+		"thesis":"An Advertising System Based on Fog Computing Architecture"
+	},
+	{
+		"name":"彭梓佑",
+		"degree":"Master",
+		"year":"2015",
+		"thesis":"An Advertisement Video Analysis System based on Eye-Tracking"
+	},
+	{
+		"name":"陳尚承",
+		"degree":"Master",
+		"year":"2015",
+		"thesis":"Mask Data Preparation System"
+	},
+	{
+		"name":"洪哲智",
+		"degree":"Master",
+		"year":"2015",
+		"thesis":"The application of ERP system was imported in Construction industry–Using T company as example"
+	},
+	{
+		"name":"袁國凱",
+		"degree":"Master",
+		"year":"2015",
+		"thesis":"UCS An Integrated Cloud Storage Service"
+	},
+	{
+		"name":"謝勝任",
+		"degree":"Master",
+		"year":"2014",
+		"thesis":"A flexible public cloud based testing service for heterogeneous testing targets"
+	},
+	{
+		"name":"黃浩宇",
+		"degree":"Master",
+		"year":"2014",
+		"thesis":"A turnaround time driven cloud resource management framework"
+	},
+	{
+		"name":"陳珍華",
+		"degree":"Master",
+		"year":"2014",
+		"thesis":"Big Data:Open Data and Realty Website Analysis"
+	},
+	{
+		"name":"陳弘育",
+		"degree":"Master",
+		"year":"2014",
+		"thesis":"ATPATPATP: A Design and Implementation of Browser-based Distributed Testing Service Platform"
+	},
+	{
+		"name":"張原",
+		"degree":"Master",
+		"year":"2014",
+		"thesis":"wTutorOnline: A browser-based plugin free tutor online system"
+	},
+	{
+		"name":"王宇寧",
+		"degree":"Master",
+		"year":"2014",
+		"thesis":"A file-deduplicated private cloud storage service using CDMI"
+	},
+	{
+		"name":"林維俊",
+		"degree":"Master",
+		"year":"2014",
+		"thesis":"RET: A Reminder System Based on Eye Tracking for Reading"
+	},
+	{
+		"name":"SANGLA Mahamady Yemraogo",
+		"degree":"Master",
+		"year":"2014",
+		"thesis":"Cloud Storage Aggregator"
+	},
+	{
+		"name":"Piboonudompornkul, Pawat",
+		"degree":"Master",
+		"year":"2014",
+		"thesis":"A Cloud Based Dynamic Content Delivery Network"
+	},
+	{
+		"name":"Nguyen Dang Minh",
+		"degree":"Master",
+		"year":"2014",
+		"thesis":"A Cross Language Plagiarism Detection Based on Cloud Computing"
+	},
+	{
+		"name":"Andriychenko Volodymyr",
+		"degree":"Master",
+		"year":"2014",
+		"thesis":"File Transfer and Synchronization over Multiple Clients/Server Environment"
+	},
+	{
+		"name":"彭美僑",
+		"degree":"Master",
+		"year":"2014",
+		"thesis":"Study and Implement Direct Data Transfer for GPU as TCP/IP Offload Engine"
+	},
+	{
+		"name":"蔡沛勳",
+		"degree":"Master",
+		"year":"2014",
+		"thesis":"A WebRTC-based video conferencing system for seniors"
+	}
+]}

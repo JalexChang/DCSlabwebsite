@@ -1,0 +1,23 @@
+{ "project":[
+	{
+		"name" :"Research and development of cloud storage access gateway",
+		"description" :"Cloud storage services (CSSs) such as Dropbox, Google Drive and Microsoft’s OneDrive are more and more popular. For users, they can access and store their data through the Internet at any time and at anywhere. On the other hand, web service providers can reduce their costs on devices storage by using CSSs’ API to access users’ cloud storages and managing their data indirectly. Although this method is convenient, it still a problem that each CSS has its own connection method of cloud storage’s API and WSPs must spend additional time understanding them for operating and development.<br>In this project, we try to propose a CDMI-compliant cloud storage access gateway to integrate different APIs of CSSs.",
+		"start_time":"2014/8",
+		"end_time":"2016/7",
+		"keywords":"Internet Service, Cloud Storage, CDMI"
+	},
+	{
+		"name" :"Eye Movement: from Data Analysis to Human Computer Interaction",
+		"description" :"The goal of the this project aims to design, build, and implement a complete Eye movement data analyses and interaction system. This system will integrate several tools in order to achieve its goal such as the annotation tool and a modified version of the open source software TAUPE. This system will be used to test a group of students in which an eye tracker will record the eye movement of the students, and the system will analyze the recorded data.<br>We hope that our experimental results will give students a new viewpoint about learning materials, and boost new social services based on those results.",
+		"start_time":"2013/8",
+		"end_time":"2016/7",
+		"keywords":"Eye Movement, Eye Tracker, HCI"
+	},
+	{
+		"name" :"Research and development of cross-media advertising platform",
+		"description" :"The goal of this project aims to design, build, and implement cross-media advertising platform that including cross-media campaign management, customize report, data analysis, ROI optmization and automately budget assignment.<br>The project is cooparated with <a href=\"https://cacafly.com/\" target=\"_blank\">Cacafly</a> Inc., the top 1 digital media reseller in Taiwan. Cacafly helps us improving the project by giving professional opinions in digital media and marketing.",	
+		"start_time":"2015/6",
+		"end_time":"2016/5",
+		"keywords":"Ad-tech, Bigdata, Software Engineering"
+	}
+]}

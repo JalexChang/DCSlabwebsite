@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta property="og:image" content="./img/pic/banner.png" />
+	
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>NCTU DCS Lab </title>
+
+    <!-- Add to homescreen for Chrome on Android -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="192x192" href="images/touch/chrome-touch-icon-192x192.png">
+
+    <!-- Add to homescreen for Safari on iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Material Design Lite">
+    <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+
+    <!-- Tile icon for Win8 (144x144 + tile color) -->
+    <meta name="msapplication-TileImage" content="images/touch/ms-touch-icon-144x144-precomposed.png">
+    <meta name="msapplication-TileColor" content="#3372DF">
+
+	<!-- material desaign css --> 
+    <link href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="mdl/material.min.css">
+    
+	<!-- Custom Theme CSS -->
+	<link rel="stylesheet" href="css/styles.css">
+	
+	<!-- js files to control views -->
+	<script src="./js/body.js"></script>
+	<script src="./js/member.js"></script>
+	<script src="./js/alumni.js"></script>
+	<script src="./js/recruiting.js"></script>
+	<script src="./js/research.js"></script>
+  </head>
+  <body onload="body()" class="mdl-dcs mdl-color--grey-300 mdl-color-text--grey-800 mdl-base">
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header ">
+		<!--header -->
+		<header class="mdl-layout__header mdl-layout__header--scroll mdl-color--indigo-50 ">
+			<div class="mdl-layout__header-row mdl-layout--large-screen-only">
+				<img class="mdl-layout--large-screen-only" src="./img/pic/title.png"></img>
+			</div>
+			<div class="mdl-layout__tab-bar  mdl-color--grey-900 ">
+				<a href="#about" class="mdl-layout__tab is-active">About</a>
+				<a href="#member" class="mdl-layout__tab">Member</a>
+				<a href="#alumni" class="mdl-layout__tab">Alumni</a>
+				<a href="#research" class="mdl-layout__tab">Research</a>
+				<a href="#recruiting" class="mdl-layout__tab">Recruiting</a>
+			</div>
+		</header>
+		
+		
+		<!-- content -->
+		<main class="mdl-layout__content">
+		<!-- section "about" -->
+		<div class="mdl-layout__tab-panel is-active" id="about">
+			<!-- intro to professor -->
+			<section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+				<div class="mdl-card mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color--grey-100 mdl-color-text--white">
+					<img class="mdl-card_img mdl-shadow--2dp professor" src="./img/pic/professor.jpg"></img>
+				</div>
+				<div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone">
+					<div class="mdl-card__title">
+					  <h4 class="mdl-card__title-text">Shyan-Ming Yuan</h4>
+				    </div>
+					<div class="mdl-card__supporting-text">
+						<li>Professor, Department of Computer Science, National Chiao Tung University, Taiwan</li>
+						<li>Director, Distributed Computing System Laboratory, National Chiao Tung University, Taiwan</li>
+						<li>Curator, National Chiao Tung University Library, Taiwan</li>
+						<li>Ph.D., Computer Science, University of Maryland, 1989</li>
+						<li>More Details in 
+							<a href="https://scholar.google.com/citations?hl=en&user=X9nPxF4AAAAJ" target="_blank">Google Scholar</a>
+						</li>
+					</div>
+					<div class="mdl-card__actions">
+						<li class="mdl-cell">Office： EC422</li>
+						<li class="mdl-cell">Phone： 03-5712121 #56631</li>
+						<li class="mdl-cell">E-Mail： <a id="professor-mail" href="mailto:smyuan@cs.nctu.edu.tw">smyuan@cs.nctu.edu.tw</a></li>
+					</div>
+				</div>
+			</section>
+			<!-- intro to DCSlab-->
+			<section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+				<div class="mdl-card mdl-cell mdl-cell--6-col-desktop mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-color--grey-100 mdl-color-text--white">
+					<img class="mdl-card_img mdl-shadow--2dp dcs" src="./img/pic/dcs.jpg"></img>
+				</div>
+				<div class="mdl-card mdl-cell mdl-cell--6-col-desktop mdl-cell--4-col-tablet mdl-cell--4-col-phone">
+					<div class="mdl-card__title">
+					  <h4 class="mdl-card__title-text">Distributed Computing System Lab</h4>
+				    </div>
+					<div class="mdl-card__supporting-text">
+						DCS Lab is a research center that research on Distributed Computing, Internet Services and Software Engineering.
+						<br>Our research fields including：
+						<br>
+						<li>Distributed Computing</li>
+						<li>Cloud Computing</li>
+						<li>Internet Technology</li>
+						<li>Digital Advertising Technology</li>
+						<li>E-learning</li>
+					</div>
+					<div class="mdl-card__actions">
+						<li class="mdl-cell">Location： MIRC703A (電資大樓703A)</li>
+					</div>
+				</div>
+			</section>
+		</div>
+		<!-- section "member" -->
+		<div class="mdl-layout__tab-panel" id="member">
+			<section class="section--center mdl-grid mdl-grid--no-spacing">
+			</section>
+		</div>
+		<!-- section "alumni" -->
+		<div class="mdl-layout__tab-panel" id="alumni">
+			<section class="section--center mdl-grid mdl-grid--no-spacing">
+				<div class="mdl-card alumni">
+				</div>
+			</section>
+		</div>
+		<!-- section "research" -->
+		<div class="mdl-layout__tab-panel" id="research">
+			<section class="section--center mdl-grid mdl-grid--no-spacing">
+			</section>
+		</div>
+		<!-- section "recruiting" -->
+		<div class="mdl-layout__tab-panel" id="recruiting">
+			<section class="section--center mdl-grid mdl-grid--no-spacing">
+				<!-- student recruiting part-->
+				<header class="mdl-cell mdl-cell--12-col-desktop mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-color--grey-300">
+						<h4 class="mdl-header mdl-color-text--grey-A900">Student Recruiting</h4>
+				</header>
+				<div class="mdl-card recruiting">
+					<div class="mdl-card__title  mdl-color-text--grey-800"><h5>致所有資訊學院的新生們：</h5></div>
+					<div class="mdl-card__supporting-text">
+						首先，先恭喜各位成為交通大學資訊學院的一份子，加入交大資工這個大家庭。由於許多同學對於分散式系統實驗室(DCSLab，以下稱本實驗室)的研究領域及方向感到好奇，因此在這邊做個簡短說明：
+						<br>
+						<br>
+						本實驗室主要的研究領域以網路相關應用及服務為主，包括<b>分散式運算</b>(Distributed Computing)、<b>雲端服務</b>(Cloud Services)、<b>網路應用技術</b>(Internet Technology)以及<b>數位廣告技術</b>(Digital Ad Technology)。
+						我們熱衷於研究新型態的網路服務架構與開發網路資料的商務應用，其相關領域含括<b>雲端運算</b>(Cloud Computing)、<b>霧運算</b>(Fog Computing)、<b>物聯網</b>(IoT)與<b>大數據</b>(Big Data)。
+						<br>
+						<br>
+						此外，本實驗室也關注以資訊科技提升學習環境的教育課題，包括<b>眼動儀</b>(Eye-tracker)、<b>數位學習</b>(E-learning)。
+						我們希望藉由網路科技的力量，達到無空間障礙、距離障礙的學習模式，改善台灣中小學與身心障礙朋友們的學習狀況。
+						<br>
+						<br>
+						歡迎有興趣的各位，聯絡實驗室指導教授－<b>袁賢銘</b> 教授(smyuan@cs.nctu.edu.tw)
+						<br>
+						或是實驗室負責人－<b>張哲彬</b> (jalex.cs02g@nctu.edu.tw)
+						<br>
+						我們非常樂意與各位促膝長談
+					</div>
+				</div>
+				<!-- Q&A part-->
+				<header class="mdl-cell mdl-cell--12-col-desktop mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-color--grey-300">
+						<h4 class="mdl-header mdl-color-text--grey-A900"> Q&A </h4>
+				</header>
+				<div class="mdl-card recruiting">
+					<div class="mdl-card__title  mdl-color-text--grey-800">這邊有一些同學們常問的問題，提供大家參考：</div>
+					<div class="mdl-card__supporting-text question">
+						<ul>
+						
+						</ul>
+					</div>
+				</div>
+			</section>
+		</div>
+		
+        <footer class="mdl-mega-footer ">
+			<section class="mdl-mega-footer--bottom-section ">
+				<center>© 2015 Distributed Computing System Lab, all rights reserved.<br>
+				Department of Computer Science, National Chiao Tung University, Taiwan</center>				  
+			</section>
+		</footer>
+      </main>
+    </div>
+    <script src="mdl/material.min.js"></script>
+  </body>
+</html>
